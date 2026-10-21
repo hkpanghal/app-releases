@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "title": "VaultBox v1.0.0",
+  "releaseNotes": "Multiple files import with progress bar, archiver performance improvements, and fast text file viewer.",
+  "downloadUrl": "https://github.com/hkpanghal/app-releases/releases/download/vaultbox-android-v1.0.0/VaultBox_v1.0.0.apk",
+  "fileName": "VaultBox_v1.0.0.apk",
+  "sha256": "41B1B0E43912653F7C7890467D789900F742CDBF6F94B0C4E725ABA36D5060EF",
+  "releaseDate": "2026-10-21T16:16:53Z",
+  "isMandatory": false
+}

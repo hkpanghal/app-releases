@@ -1,0 +1,6 @@
+# Binaries (uploaded to GitHub Releases)
+*.apk
+*.exe
+*.msi
+*.zip
+*.tar.gz
